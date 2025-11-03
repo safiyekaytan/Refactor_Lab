@@ -1,0 +1,373 @@
+﻿MERHABA!
+-------- day 0 --------
+name, sellIn, quality
++3 Fotokopi, 10, 20
+Eski Kaşar Peyniri, 2, 0
+Gemlik zeytini, 5, 7
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, 15, 20
+Bulutsuzluk özlemi konser bileti, 10, 49
+Bulutsuzluk özlemi konser bileti, 5, 49
+Çatapat, 3, 6
+
+-------- day 1 --------
+name, sellIn, quality
++3 Fotokopi, 9, 19
+Eski Kaşar Peyniri, 1, 1
+Gemlik zeytini, 4, 6
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, 14, 21
+Bulutsuzluk özlemi konser bileti, 9, 50
+Bulutsuzluk özlemi konser bileti, 4, 50
+Çatapat, 2, 5
+
+-------- day 2 --------
+name, sellIn, quality
++3 Fotokopi, 8, 18
+Eski Kaşar Peyniri, 0, 2
+Gemlik zeytini, 3, 5
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, 13, 22
+Bulutsuzluk özlemi konser bileti, 8, 50
+Bulutsuzluk özlemi konser bileti, 3, 50
+Çatapat, 1, 4
+
+-------- day 3 --------
+name, sellIn, quality
++3 Fotokopi, 7, 17
+Eski Kaşar Peyniri, -1, 4
+Gemlik zeytini, 2, 4
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, 12, 23
+Bulutsuzluk özlemi konser bileti, 7, 50
+Bulutsuzluk özlemi konser bileti, 2, 50
+Çatapat, 0, 3
+
+-------- day 4 --------
+name, sellIn, quality
++3 Fotokopi, 6, 16
+Eski Kaşar Peyniri, -2, 6
+Gemlik zeytini, 1, 3
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, 11, 24
+Bulutsuzluk özlemi konser bileti, 6, 50
+Bulutsuzluk özlemi konser bileti, 1, 50
+Çatapat, -1, 1
+
+-------- day 5 --------
+name, sellIn, quality
++3 Fotokopi, 5, 15
+Eski Kaşar Peyniri, -3, 8
+Gemlik zeytini, 0, 2
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, 10, 25
+Bulutsuzluk özlemi konser bileti, 5, 50
+Bulutsuzluk özlemi konser bileti, 0, 50
+Çatapat, -2, 0
+
+-------- day 6 --------
+name, sellIn, quality
++3 Fotokopi, 4, 14
+Eski Kaşar Peyniri, -4, 10
+Gemlik zeytini, -1, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, 9, 27
+Bulutsuzluk özlemi konser bileti, 4, 50
+Bulutsuzluk özlemi konser bileti, -1, 0
+Çatapat, -3, 0
+
+-------- day 7 --------
+name, sellIn, quality
++3 Fotokopi, 3, 13
+Eski Kaşar Peyniri, -5, 12
+Gemlik zeytini, -2, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, 8, 29
+Bulutsuzluk özlemi konser bileti, 3, 50
+Bulutsuzluk özlemi konser bileti, -2, 0
+Çatapat, -4, 0
+
+-------- day 8 --------
+name, sellIn, quality
++3 Fotokopi, 2, 12
+Eski Kaşar Peyniri, -6, 14
+Gemlik zeytini, -3, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, 7, 31
+Bulutsuzluk özlemi konser bileti, 2, 50
+Bulutsuzluk özlemi konser bileti, -3, 0
+Çatapat, -5, 0
+
+-------- day 9 --------
+name, sellIn, quality
++3 Fotokopi, 1, 11
+Eski Kaşar Peyniri, -7, 16
+Gemlik zeytini, -4, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, 6, 33
+Bulutsuzluk özlemi konser bileti, 1, 50
+Bulutsuzluk özlemi konser bileti, -4, 0
+Çatapat, -6, 0
+
+-------- day 10 --------
+name, sellIn, quality
++3 Fotokopi, 0, 10
+Eski Kaşar Peyniri, -8, 18
+Gemlik zeytini, -5, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, 5, 35
+Bulutsuzluk özlemi konser bileti, 0, 50
+Bulutsuzluk özlemi konser bileti, -5, 0
+Çatapat, -7, 0
+
+-------- day 11 --------
+name, sellIn, quality
++3 Fotokopi, -1, 8
+Eski Kaşar Peyniri, -9, 20
+Gemlik zeytini, -6, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, 4, 38
+Bulutsuzluk özlemi konser bileti, -1, 0
+Bulutsuzluk özlemi konser bileti, -6, 0
+Çatapat, -8, 0
+
+-------- day 12 --------
+name, sellIn, quality
++3 Fotokopi, -2, 6
+Eski Kaşar Peyniri, -10, 22
+Gemlik zeytini, -7, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, 3, 41
+Bulutsuzluk özlemi konser bileti, -2, 0
+Bulutsuzluk özlemi konser bileti, -7, 0
+Çatapat, -9, 0
+
+-------- day 13 --------
+name, sellIn, quality
++3 Fotokopi, -3, 4
+Eski Kaşar Peyniri, -11, 24
+Gemlik zeytini, -8, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, 2, 44
+Bulutsuzluk özlemi konser bileti, -3, 0
+Bulutsuzluk özlemi konser bileti, -8, 0
+Çatapat, -10, 0
+
+-------- day 14 --------
+name, sellIn, quality
++3 Fotokopi, -4, 2
+Eski Kaşar Peyniri, -12, 26
+Gemlik zeytini, -9, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, 1, 47
+Bulutsuzluk özlemi konser bileti, -4, 0
+Bulutsuzluk özlemi konser bileti, -9, 0
+Çatapat, -11, 0
+
+-------- day 15 --------
+name, sellIn, quality
++3 Fotokopi, -5, 0
+Eski Kaşar Peyniri, -13, 28
+Gemlik zeytini, -10, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, 0, 50
+Bulutsuzluk özlemi konser bileti, -5, 0
+Bulutsuzluk özlemi konser bileti, -10, 0
+Çatapat, -12, 0
+
+-------- day 16 --------
+name, sellIn, quality
++3 Fotokopi, -6, 0
+Eski Kaşar Peyniri, -14, 30
+Gemlik zeytini, -11, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, -1, 0
+Bulutsuzluk özlemi konser bileti, -6, 0
+Bulutsuzluk özlemi konser bileti, -11, 0
+Çatapat, -13, 0
+
+-------- day 17 --------
+name, sellIn, quality
++3 Fotokopi, -7, 0
+Eski Kaşar Peyniri, -15, 32
+Gemlik zeytini, -12, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, -2, 0
+Bulutsuzluk özlemi konser bileti, -7, 0
+Bulutsuzluk özlemi konser bileti, -12, 0
+Çatapat, -14, 0
+
+-------- day 18 --------
+name, sellIn, quality
++3 Fotokopi, -8, 0
+Eski Kaşar Peyniri, -16, 34
+Gemlik zeytini, -13, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, -3, 0
+Bulutsuzluk özlemi konser bileti, -8, 0
+Bulutsuzluk özlemi konser bileti, -13, 0
+Çatapat, -15, 0
+
+-------- day 19 --------
+name, sellIn, quality
++3 Fotokopi, -9, 0
+Eski Kaşar Peyniri, -17, 36
+Gemlik zeytini, -14, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, -4, 0
+Bulutsuzluk özlemi konser bileti, -9, 0
+Bulutsuzluk özlemi konser bileti, -14, 0
+Çatapat, -16, 0
+
+-------- day 20 --------
+name, sellIn, quality
++3 Fotokopi, -10, 0
+Eski Kaşar Peyniri, -18, 38
+Gemlik zeytini, -15, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, -5, 0
+Bulutsuzluk özlemi konser bileti, -10, 0
+Bulutsuzluk özlemi konser bileti, -15, 0
+Çatapat, -17, 0
+
+-------- day 21 --------
+name, sellIn, quality
++3 Fotokopi, -11, 0
+Eski Kaşar Peyniri, -19, 40
+Gemlik zeytini, -16, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, -6, 0
+Bulutsuzluk özlemi konser bileti, -11, 0
+Bulutsuzluk özlemi konser bileti, -16, 0
+Çatapat, -18, 0
+
+-------- day 22 --------
+name, sellIn, quality
++3 Fotokopi, -12, 0
+Eski Kaşar Peyniri, -20, 42
+Gemlik zeytini, -17, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, -7, 0
+Bulutsuzluk özlemi konser bileti, -12, 0
+Bulutsuzluk özlemi konser bileti, -17, 0
+Çatapat, -19, 0
+
+-------- day 23 --------
+name, sellIn, quality
++3 Fotokopi, -13, 0
+Eski Kaşar Peyniri, -21, 44
+Gemlik zeytini, -18, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, -8, 0
+Bulutsuzluk özlemi konser bileti, -13, 0
+Bulutsuzluk özlemi konser bileti, -18, 0
+Çatapat, -20, 0
+
+-------- day 24 --------
+name, sellIn, quality
++3 Fotokopi, -14, 0
+Eski Kaşar Peyniri, -22, 46
+Gemlik zeytini, -19, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, -9, 0
+Bulutsuzluk özlemi konser bileti, -14, 0
+Bulutsuzluk özlemi konser bileti, -19, 0
+Çatapat, -21, 0
+
+-------- day 25 --------
+name, sellIn, quality
++3 Fotokopi, -15, 0
+Eski Kaşar Peyniri, -23, 48
+Gemlik zeytini, -20, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, -10, 0
+Bulutsuzluk özlemi konser bileti, -15, 0
+Bulutsuzluk özlemi konser bileti, -20, 0
+Çatapat, -22, 0
+
+-------- day 26 --------
+name, sellIn, quality
++3 Fotokopi, -16, 0
+Eski Kaşar Peyniri, -24, 50
+Gemlik zeytini, -21, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, -11, 0
+Bulutsuzluk özlemi konser bileti, -16, 0
+Bulutsuzluk özlemi konser bileti, -21, 0
+Çatapat, -23, 0
+
+-------- day 27 --------
+name, sellIn, quality
++3 Fotokopi, -17, 0
+Eski Kaşar Peyniri, -25, 50
+Gemlik zeytini, -22, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, -12, 0
+Bulutsuzluk özlemi konser bileti, -17, 0
+Bulutsuzluk özlemi konser bileti, -22, 0
+Çatapat, -24, 0
+
+-------- day 28 --------
+name, sellIn, quality
++3 Fotokopi, -18, 0
+Eski Kaşar Peyniri, -26, 50
+Gemlik zeytini, -23, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, -13, 0
+Bulutsuzluk özlemi konser bileti, -18, 0
+Bulutsuzluk özlemi konser bileti, -23, 0
+Çatapat, -25, 0
+
+-------- day 29 --------
+name, sellIn, quality
++3 Fotokopi, -19, 0
+Eski Kaşar Peyniri, -27, 50
+Gemlik zeytini, -24, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, -14, 0
+Bulutsuzluk özlemi konser bileti, -19, 0
+Bulutsuzluk özlemi konser bileti, -24, 0
+Çatapat, -26, 0
+
+-------- day 30 --------
+name, sellIn, quality
++3 Fotokopi, -20, 0
+Eski Kaşar Peyniri, -28, 50
+Gemlik zeytini, -25, 0
+Sebze meyve, 0, 80
+Sebze meyve, -1, 80
+Bulutsuzluk özlemi konser bileti, -15, 0
+Bulutsuzluk özlemi konser bileti, -20, 0
+Bulutsuzluk özlemi konser bileti, -25, 0
+Çatapat, -27, 0
+
